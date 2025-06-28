@@ -39,5 +39,5 @@ A modern, responsive landing page for a digital agency built with React, Vite, T
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/digital-agency-landing.git
+https://github.com/AbdirashidHaji/DigitalAgency.git
 cd digital-agency-landing
